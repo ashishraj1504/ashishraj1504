@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Java DSA, Full Stack Web Development, and Open Source Contributions<br>👯 I’m looking to collaborate on Web Development Projects, Open Source, and Innovative Software Ideas<br>🤔 I’m looking for help with Advanced Backend Development, System Design, and GSoC Preparation<br>🌱 I’m currently learning JavaScript, React, Next.js, Node.js, and Data Structures & Algorithms in Java<br>💬 Ask me about Java, JavaScript, DSA, Web Development, Git, and GitHub<br>⚡ Fun fact: I love building interactive UI effects, contributing to open source, and reading manga.<br>
+- 🔭 I’m currently working on Java DSA, Full Stack Web Development, and Open Source Contributions
+- 👯 I’m looking to collaborate on Web Development Projects, Open Source, and Innovative Software Ideas
+- 🤔 I’m looking for help with Advanced Backend Development, System Design, and GSoC Preparation
+- 🌱 I’m currently learning JavaScript, React, Next.js, Node.js, and Data Structures & Algorithms in Java
+- 💬 Ask me about Java, JavaScript, DSA, Web Development, Git, and GitHub
+- ⚡ Fun fact: I love building interactive UI effects, contributing to open source, and reading manga.<br>
 
 
 ## 🌐 Socials:
