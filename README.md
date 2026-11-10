@@ -67,11 +67,8 @@ const ashish = {
 
 <img width="95%" src="https://streak-stats.demolab.com/?user=ashishraj1504&theme=tokyonight&hide_border=true&border_radius=10" />
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ashishraj1504&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-### 📈 Contribution Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj1504&theme=react-dark&hide_border=true&area=true&color=00f5d4&line=7b2ff7&point=ffffff" />
+### 🧊 3D Contribution Graph
+<img width="100%" src="https://raw.githubusercontent.com/ashishraj1504/ashishraj1504/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
 
