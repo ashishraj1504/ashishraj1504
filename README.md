@@ -88,7 +88,6 @@ const ashish = {
 
 - [ ] Solve 300+ DSA problems in Java
 - [ ] Ship & deploy a full-stack Next.js + Node.js project
-- [ ] Get my first open source PRs merged
 - [ ] Prepare a strong GSoC proposal
 
 <!-- ========================= FOOTER ========================= -->
