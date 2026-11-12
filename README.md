@@ -49,7 +49,7 @@ const ashish = {
 <!-- Replace repo names & descriptions. Pinned-repo cards update automatically. -->
 <div align="center">
 
-<a href="https://github.com/ashishraj1504/HotelManagementSystem"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ashishraj1504&repo=REPO-1&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ashishraj1504/HotelManagementSystem"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ashishraj1504&repo=HotelManagementSystem&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/ashishraj1504/REPO-2"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ashishraj1504&repo=REPO-2&theme=tokyonight&hide_border=true" /></a>
 
 <a href="https://github.com/ashishraj1504/REPO-3"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ashishraj1504&repo=REPO-3&theme=tokyonight&hide_border=true" /></a>
